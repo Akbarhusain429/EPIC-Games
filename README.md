@@ -1,8 +1,12 @@
-EPIC Games Dashboard: 
+# EPIC Games Dashboard: 
 
-Overview:
-Tableau public: https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/EpicGame_17356597544740/EpicGamesDashboard
+# Overview:
+
+# Tableau public:
+https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/EpicGame_17356597544740/EpicGamesDashboard
  
+
+# Description:
 
 KPI’s Overview:
                 Displays global and regional sales data (Global: 8,920, Japan: 1,297, North America: 4,403, Europe: 2,425, Other: 791.3).
